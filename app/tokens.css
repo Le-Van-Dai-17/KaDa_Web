@@ -1,0 +1,72 @@
+:root {
+  --brand-primary: #ff5a2a;
+  --brand-primary-hover: #e94718;
+  --brand-primary-soft: #fff0ea;
+  --brand-secondary: #1f6feb;
+  --brand-secondary-soft: #eaf2ff;
+
+  --neutral-950: #111111;
+  --neutral-900: #1c1c1c;
+  --neutral-800: #2a2a2a;
+  --neutral-700: #454545;
+  --neutral-600: #666666;
+  --neutral-500: #858585;
+  --neutral-300: #d8d8d8;
+  --neutral-200: #eaeaea;
+  --neutral-100: #f5f5f5;
+  --neutral-50: #fafafa;
+  --white: #ffffff;
+
+  --success: #178a4b;
+  --success-soft: #e8f6ee;
+  --warning: #c47a00;
+  --warning-soft: #fff4d8;
+  --danger: #d9363e;
+  --danger-soft: #fdebec;
+  --info: #1f6feb;
+  --info-soft: #eaf2ff;
+
+  --font-heading: var(--font-manrope), "Manrope", "Inter", sans-serif;
+  --font-body: var(--font-inter), "Inter", sans-serif;
+
+  --font-display: clamp(2.5rem, 8vw, 4rem);
+  --font-h1: clamp(2.25rem, 6vw, 3.25rem);
+  --font-h2: clamp(1.8rem, 4vw, 2.5rem);
+  --font-h3: 1.35rem;
+  --font-h4: 1.25rem;
+  --font-body-lg: 1.125rem;
+  --font-body: 1rem;
+  --font-body-sm: 0.925rem;
+  --font-caption: 0.78rem;
+
+  --line-tight: 1.08;
+  --line-heading: 1.18;
+  --line-body: 1.65;
+  --line-small: 1.5;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 2rem;
+  --space-8: 2.5rem;
+  --space-9: 3rem;
+  --space-10: 4rem;
+  --space-11: 5rem;
+  --space-12: 6rem;
+
+  --container: 73.75rem;
+  --container-narrow: 55rem;
+  --section-block: clamp(4rem, 9vw, 6rem);
+  --page-inline: clamp(1.25rem, 4vw, 2rem);
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 2px 8px rgba(17, 17, 17, 0.06);
+  --shadow-md: 0 12px 32px rgba(17, 17, 17, 0.10);
+}
